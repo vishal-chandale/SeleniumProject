@@ -48,5 +48,15 @@ public class HomePageTests extends BaseTest{
 		throw new SkipException("This test should be skipped");
 	}
 	
+	@Test
+	public void test3() {
+		
+		
+		//test.log(Status.INFO,"Dummy test case");
+		//test.log(Status.INFO,"Dummy test case");
+		
+		throw new SkipException("This test should be skipped");
+	}
+	
 	
 }
